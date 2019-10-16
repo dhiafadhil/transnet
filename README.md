@@ -16,6 +16,7 @@
   - Search User 
     - ex : http://localhost:3000/api/userFind?searchkey=first_name&searchvalue=Liz
 ### Method Post
+  - http://localhost:3000/api/users
   - Add User 
     - json body example
 {
