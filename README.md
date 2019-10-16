@@ -2,8 +2,7 @@
 
 ## INFO
    - App Runnng on http://localhost:3000
-   - Use Insomnia To View Data
-   - First run (ex ubuntu : npm install on file directory)
+   - I Use Insomnia To View Data
     
   
 
