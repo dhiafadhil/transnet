@@ -6,7 +6,7 @@
     
   
 
-#### Method Get
+### Method Get
   - Get Hello World http://localhost:3000
   - Get All Users http://localhost:3000/api/users
   - Get User With Pagination with endpont like page and limit
