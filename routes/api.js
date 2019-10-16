@@ -11,3 +11,4 @@ router.put('/api/users/:id',controller.updateUsers);
 router.delete('/api/users/:id',controller.removeUsers);
 
 module.exports = router;
+
